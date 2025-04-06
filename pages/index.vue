@@ -2,7 +2,7 @@
     <div class="home-container">
       <!-- Background image -->
       <img 
-        src="/images/jersey-models.jpg" 
+        src="/public/src/images/jersey-models.jpg" 
         alt="Fashion models wearing jerseys" 
         class="background-image"
       />
